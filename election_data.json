@@ -1,0 +1,35 @@
+{
+  "election_title": "Student Council Election 2025",
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Arjun Sharma",
+      "position": "Class President"
+    },
+    {
+      "id": 2,
+      "name": "Priya Nair",
+      "position": "Class President"
+    },
+    {
+      "id": 3,
+      "name": "Rahul Mehta",
+      "position": "Class President"
+    },
+    {
+      "id": 4,
+      "name": "Chinmay dada",
+      "position": "don"
+    },
+    {
+      "id": 5,
+      "name": "dada is don",
+      "position": "don is dada"
+    }
+  ],
+  "votes": {
+    "5": 1
+  },
+  "results_unlocked": false,
+  "next_id": 6
+}
